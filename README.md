@@ -1,6 +1,7 @@
 # 💫 About Me:
 👀 I’m interested in fresh air, gaming, and delicious food.<br>🌱 I’m currently learning more about full-stack development with a focus on Python, and working on a personal project from home.<br>💻 I have experience programming in multiple languages and have contributed to a wide range of projects, including some commercial ones.<br>🔄 I’m looking to collaborate on projects where I can apply my skills in backend development or full-stack roles.<br>📫 How to reach me: [ARSENAHAEV052@GMAIL.COM].<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I LOVE pizza and spicy food! I also have extensive experience in the gaming industry, including working as a tester on various projects.<br>Feel free to check out my repositories or get in touch if you'd like to collaborate!
-
+<br>🔗 Check out my short overview:
+<br>https://celadon-toffee-cc96e0.netlify.app/
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/qwdqwdqwdqew) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/my_beautifull_desire_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arsen-yakhiaiev-58b249316/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/kusssarigawa) 
@@ -23,6 +24,7 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Yakhyaev Arsen) 
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
